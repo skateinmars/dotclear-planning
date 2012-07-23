@@ -1,0 +1,16 @@
+TODO 
+====================
+
+- * :
+	- Use a specific tag pref to restrict posts choice (low priority)
+	- translate and clean all strings
+	- rss/atom feeds (low priority)
+	- link to session proposal when session list is empty (low priority)
+	- add a database reference on post_id to remove invalid sessions references
+
+- index.php : 
+	- combobox for editing session related post
+	- field for editing session title
+
+- _widgets.php :
+	- Write a real working calendar
